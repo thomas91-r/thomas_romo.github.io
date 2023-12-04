@@ -5,7 +5,7 @@ Products and his work done in recent years by Tomás Romo.
 [Proyecto 1](link_al_proyecto_1): Breve descripción del proyecto.
 [Proyecto 2](link_al_proyecto_2): Breve descripción del proyecto.
 
-#skills and competencies
+#Skills and competencies
  
 **Technical skills**: GIS, Spatial data analyst, map making, development of territorial viewers, report preparation and environmental research.  
 **Data programs**: Excel, SPSS, Python, Pandas.  
