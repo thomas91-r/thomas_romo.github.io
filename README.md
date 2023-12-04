@@ -1,5 +1,5 @@
 # thomas_romo.github.io
-His products and his work done in recent years by Tomás Romo.
+Products and his work done in recent years by Tomás Romo.
 
 #Proyects
 [Proyecto 1](link_al_proyecto_1): Breve descripción del proyecto.
