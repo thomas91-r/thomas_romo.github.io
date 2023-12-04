@@ -14,3 +14,4 @@ Products and his work done in recent years by Tomás Romo.
 #Contact
 
 email: tomasromo.91@gmail.com
+[LinkedIn]([https://www.linkedin.com/in/tomas1991/])
