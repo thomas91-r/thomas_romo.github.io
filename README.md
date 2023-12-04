@@ -7,11 +7,9 @@ His products and his work done in recent years by Tomás Romo.
 
 #Habilidades
 
-Data programs: Excel, SPSS, Python, Pandas
-
-Technical skills: GIS (Geographical information system), data analyst, maps making, report preparation and environmental research.
-
-Language: English, Spanish, Portuguese, Italian(basic) and German(basic).
+Data programs: Excel, SPSS, Python, Pandas  
+Technical skills: GIS (Geographical information system), data analyst, maps making, report preparation and environmental research.  
+Language: English, Spanish, Portuguese, Italian(basic) and German(basic).  
 
 #Contacto
 
