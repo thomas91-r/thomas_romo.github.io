@@ -11,6 +11,6 @@ His products and his work done in recent years by Tomás Romo.
 **Data programs**: Excel, SPSS, Python, Pandas.  
 **Languages**: English, Spanish, Portuguese, Italian(basic) and German(basic).  
 
-#Contacto
+#Contact
 
 email: tomasromo.91@gmail.com
