@@ -1,5 +1,5 @@
 # thomas_romo.github.io
-👋🏻 Hi! I'm Tomás Romo, from southernmost of world 👉🏻 Chile
+👋🏻 Hi! I'm Tomás Romo, from southernmost of world 👉🏻 Chile  
 🌎 I'm geographer with a Ms.C in Natural Resource Management.  
 💙 I love the landscapes, maps, science, reading, learn new things, spend time with my God, my family and with myself.  
 
@@ -15,5 +15,5 @@
 
 #Contact
 
-[Email] (tomasromo.91@gmail.com)  
+Email 👉🏻 (tomasromo.91@gmail.com)  
 [My LinkedIn page](https://www.linkedin.com/in/tomas1991/)  
