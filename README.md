@@ -1,9 +1,12 @@
 # thomas_romo.github.io
-Products and his work done in recent years by Tomás Romo.
+Hi! I'm Tomás Romo, from southern of world 
+I'm geographer with a Ms.C in Natural Resource Management.  
+I love the landscapes, maps, science, reading, learn new things, spend time with God, my family and with myself.
 
-#Proyects
-[Proyecto 1](link_al_proyecto_1): Breve descripción del proyecto.
-[Proyecto 2](link_al_proyecto_2): Breve descripción del proyecto.
+
+#Experience (experiencia laboral)
+[Geógrafo y referente territorial en SEREMI de Salud, Región de La Araucanía](link_al_proyecto_1): Breve descripción del proyecto.  
+[Geógrafo y asistente de investigación en proyecto Anillo ATE220047 "La Crisis Social Del Agua"](link_al_proyecto_2): Breve descripción del proyecto.
 
 #Skills and competencies
  
